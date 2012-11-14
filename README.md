@@ -1,4 +1,4 @@
 TrainingTestTask
 ================
 
-My test task for interview in EPAM, Tver
+My test task for an interview in EPAM inc., Tver
